@@ -5,6 +5,7 @@
 # python3 -m venv .venv
 # source .venv/bin/activate -> activates the virtual environment
 # (Recommended to make a requirements.txt file for projects, run "pip install -r requirements.txt")
+# You can use "pip freeze > requriements.txt" to create a list of all the packages you have.
 # When done, deactivate the environment by "deactivate"
 
 from pyautogui import *
